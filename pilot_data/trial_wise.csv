@@ -1,0 +1,17 @@
+filename,Data type,Resp start,Mobile start,Stim,Trial stim,Participant,Trial order,Mobile loc,Music Move,Move Act,Resp_file,Mobile_file,mocap_file
+DS_T1_redo.qtm,Mocap ,4.25,7.5,12,T1,DS,1,6,Standing,Clapping,1615819583587,data_part1_trial_1_Stim_T1.csv,DS_T1_redoLabeled2.tsv
+DS_T3.qtm,Mocap ,4,8,18,T3,DS,2,6,Seated,lean forward and back,1615820096915,data_part1_trial_2_Stim_T3.csv,DS_T3.tsv
+DS_T5.qtm,Mocap ,4,7,10,T5,DS,3,6,Seated,Text,1615820773283,data_part1_trial_3_Stim_T5.csv,DS_T5.tsv
+DS_T7.qtm,Mocap ,4,11,15,T7,DS,4,6,Seated,Stand stretch,1615821302122,data_part1_trial_4_Stim_T7.csv,DS_T7.tsv
+DS_T2.qtm,Mocap ,3.5,7,9,T2,DS,5,12,Standing,lean forward and back,1615822101240,data_part1_trial_5_Stim_T2.csv,DS_T2.tsv
+DS_T4.qtm,Mocap ,4,7,12,T4,DS,6,12,Standing,Remove phone,1615822538057,data_part1_trial_6_Stim_T4.csv,DS_T4.tsv
+DS_T6.qtm,Mocap ,3,6,8,T6,DS,7,12,Standing,Text,1615822953135,data_part1_trial_7_Stim_T6.csv,DS_T6.tsv
+DS_T8.qtm,Mocap ,2.5,4.5,8,T8,DS,8,12,Standing,Stand stretch,1615823440498,data_part1_trial_8_Stim_T8.csv,DS_T8.tsv
+KB_Trial_01.qtm,Mocap ,5,10,23,T1,KB,9,6,Standing,Clapping,1615898127612,data_part2_trial_1_Stim_T1.csv,KB_Trial_01.tsv
+KB_Trial_02.qtm,Mocap ,6,12,17,T2,KB,10,6,Standing,lean forward and back,1615898764122,data_part2_trial_2_Stim_T2.csv,KB_Trial_02.tsv
+KB_Trial_03.qtm,Mocap ,5,9,14,T3,KB,11,6,Seated,lean forward and back,1615899258679,data_part2_trial_3_Stim_T3.csv,KB_Trial_03.tsv
+KB_Trial_06.qtm,Mocap ,4,7,12,T6,KB,12,6,Standing,Text,1615899714492,data_part2_trial_4_Stim_T6.csv,KB_Trial_06.tsv
+KB_Trial_04Redo.qtm,Mocap ,6,8,13,T4,KB,13,12,Standing,Remove phone,1615900746341,data_part2_trial_5_Stim_T4.csv,KB_Trial_04Redo.tsv
+KB_Trial_05.qtm,Mocap ,4,6,14,T5,KB,14,12,Seated,Text,1615901311927,data_part2_trial_6_Stim_T5.csv,KB_Trial_05.tsv
+KB_Trial_07.qtm,Mocap ,4,7,10,T7,KB,15,12,Seated,Stand stretch,1615901757251,data_part2_trial_7_Stim_T7.csv,KB_Trial_07.tsv
+KB_Trial_08.qtm,Mocap ,4,6,9,T8,KB,16,12,Standing,Stand stretch,1615902190449,data_part2_trial_8_Stim_T8.csv,KB_Trial_08.tsv

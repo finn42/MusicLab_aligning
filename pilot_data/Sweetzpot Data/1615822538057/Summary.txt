@@ -1,0 +1,1 @@
+{"activeTime":"00:04:42","averageHeartRate":{"heartRate":53},"averagePace":{"seconds":0},"endTime":"08:40:20","startTime":"08:35:38","totalDistance":{"meters":0.0}}

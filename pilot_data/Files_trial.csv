@@ -1,0 +1,17 @@
+Trial,Stimulus,mocap,resp,mobile
+DS_T1,T1.mp3,DS_T1_redo.tsv,1615819583587,data_part1_trial_1_Stim_T1.csv
+DS_T2,T3.mp3,DS_T2.tsv,1615820096915,data_part1_trial_2_Stim_T3.csv
+DS_T3,T5.mp3,DS_T3.tsv,1615820773283,data_part1_trial_3_Stim_T5.csv
+DS_T4,T7.mp3,DS_T4.tsv,1615821302122,data_part1_trial_4_Stim_T7.csv
+DS_T5,T2.mp3,DS_T5.tsv,1615822101240,data_part1_trial_5_Stim_T2.csv
+DS_T6,T4.mp3,DS_T6.tsv,1615822538057,data_part1_trial_6_Stim_T4.csv
+DS_T7,T6.mp3,DS_T7.tsv,1615822953135,data_part1_trial_7_Stim_T6.csv
+DS_T8,T8.mp3,DS_T8.tsv,1615823440498,data_part1_trial_8_Stim_T8.csv
+KB_T1,T1.mp3,KB_Trial_01.tsv,1615898127612,data_part2_trial_1_Stim_T1.csv
+KB_T2,T2.mp3,KB_Trial_02.tsv,1615898764122,data_part2_trial_2_Stim_T2.csv
+KB_T3,T3.mp3,KB_Trial_03.tsv,1615899258679,data_part2_trial_3_Stim_T3.csv
+KB_T4,T6.mp3,KB_Trial_04Redo.tsv,1615899714492,data_part2_trial_4_Stim_T6.csv
+KB_T5,T4.mp3,KB_Trial_05.tsv,1615900746341,data_part2_trial_5_Stim_T4.csv
+KB_T6,T5.mp3,KB_Trial_06.tsv,1615901311927,data_part2_trial_6_Stim_T5.csv
+KB_T7,T7.mp3,KB_Trial_07.tsv,1615901757251,data_part2_trial_7_Stim_T7.csv
+KB_T8,T8.mp3,KB_Trial_08.tsv,1615902190449,data_part2_trial_8_Stim_T8.csv
